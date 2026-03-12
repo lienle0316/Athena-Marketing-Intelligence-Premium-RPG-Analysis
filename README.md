@@ -44,9 +44,23 @@ Measured on a Likert scale (1-7), these variables track how often (prefixed as `
 * **Revenue Tiers:** Financial modeling accounts for Steam’s 2020 revenue-sharing structure (30% for the first $10M, 25% for the next $40M, and 20% thereafter).
 
 ## Tech Stack
-- **Analysis:** Python (Pandas, NumPy, Statsmodels)
-- **Dimensionality Reduction:** Factor Analysis (EFA), PCA
-- **Visualization:** Matplotlib, Seaborn
+### **Data Science & Statistical Modeling**
+- **Dimensionality Reduction:** Executed Exploratory Factor Analysis (EFA) and Principal Component Analysis (PCA) to condense 27 variables into actionable consumer segments.
+- **Statistical Validation:** - **Kaiser-Meyer-Olkin (KMO):** Verified sampling adequacy to ensure the data was suitable for factor extraction.
+    - **Bartlett’s Test of Sphericity:** Confirmed significant correlation between variables to reject the identity matrix hypothesis.
+- **Predictive Analytics:** Developed linear regression models to forecast unit demand and market growth for the 2020 fiscal year.
+- **Clustering:** Applied K-Means clustering to define and validate distinct player personas based on psychographic factor scores.
+
+### **Programming & Libraries**
+- **Language:** Python (Google Colab Environment)
+- **Data Manipulation:** `Pandas`, `NumPy`
+- **Statistics & ML:** `FactorAnalyzer`, `Statsmodels`, `SciPy`, `Scikit-Learn`
+- **Visualization:** `Matplotlib`, `Seaborn` (used for plotting Demand Curves and Preference Shares)
+
+### **Business Intelligence & Strategy**
+- **Market Simulation:** Utilized discrete choice modeling to predict "First-Choice" preference shares among three acquisition candidates.
+- **Financial Engineering:** Built a profit-maximization model incorporating Steam’s tiered revenue sharing (30%/25%/20%) and royalty structures.
+- **Strategic Positioning:** Transformed statistical clusters into a targeted marketing strategy for the "Casual" and "Story Explorer" segments.
 
 ## Academic Integrity & License
 This repository is for portfolio purposes. The code represents individual work for the **MQM 552Q: Marketing Intelligence** individual final project. 
