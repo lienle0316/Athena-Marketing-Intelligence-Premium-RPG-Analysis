@@ -9,6 +9,7 @@ This project identifies the optimal acquisition target for *Athena Softworks* wi
 * **Pricing Strategy:** A $35 price point was recommended to maximize net profit while accounting for Steam's tier-based revenue sharing.
 
 ![Projected Demand for Seraph Guardians](images/demand-curve.png)
+
 At this price point, Seraph Guardians captures 50.05% first-choice preference, far exceeding both Athena’s alternative titles and competing games, demonstrating higher market penetration potential
 
 * **Player Personas:** Identified 4 distinct segments (e.g., "Action Fighters," "Story Explorers") using Factor Analysis to guide marketing positioning.
