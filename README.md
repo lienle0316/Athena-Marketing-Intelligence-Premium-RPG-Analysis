@@ -62,5 +62,5 @@ Measured on a Likert scale (1-7), these variables track how often (prefixed as `
 - **Strategic Positioning:** Transformed statistical clusters into a targeted marketing strategy for the "Casual" and "Story Explorer" segments.
 
 ## Academic Integrity & License
-This repository is for portfolio purposes. The code represents individual work for the **MQM 552Q: Marketing Intelligence** individual final project. 
+This repository is for portfolio purposes. The code represents individual work for the **MQM 552Q: Marketing Intelligence** final project. 
 - **License:** MIT
