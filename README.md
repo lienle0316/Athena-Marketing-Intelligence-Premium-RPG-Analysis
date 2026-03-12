@@ -48,7 +48,6 @@ Measured on a Likert scale (1-7), these variables track how often (prefixed as `
 - **Dimensionality Reduction:** Executed Exploratory Factor Analysis (EFA) and Principal Component Analysis (PCA) to condense 27 variables into actionable consumer segments.
 - **Statistical Validation:** - **Kaiser-Meyer-Olkin (KMO):** Verified sampling adequacy to ensure the data was suitable for factor extraction.
     - **Bartlett’s Test of Sphericity:** Confirmed significant correlation between variables to reject the identity matrix hypothesis.
-- **Predictive Analytics:** Developed linear regression models to forecast unit demand and market growth for the 2020 fiscal year.
 - **Clustering:** Applied K-Means clustering to define and validate distinct player personas based on psychographic factor scores.
 
 ### **Programming & Libraries**
